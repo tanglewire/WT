@@ -1,5 +1,5 @@
 #!/bin/ksh
-#talker 0.3
+#talker 0.31
 
 if [ $# -eq 0 ]
 then
